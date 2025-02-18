@@ -11,9 +11,6 @@ O **AutoGuy** é um script automatizado desenvolvido em Python para aceitar part
 - OpenCV
 - PyAutoGUI
 - Outros requisitos podem ser instalados com:
-  ```sh
-  pip install -r requirements.txt
-  ```
 
 ## 🛠️ Como Usar
 1. Execute o script Python:
@@ -25,9 +22,6 @@ O **AutoGuy** é um script automatizado desenvolvido em Python para aceitar part
 ## 🔜 Próximos Passos
 - 🎯 **Auto Pick** - Selecionar automaticamente um campeão predefinido.
 - 🚫 **Auto Ban** - Banir automaticamente um campeão predefinido.
-
-## 📜 Licença
-Este projeto é de código aberto sob a licença MIT.
 
 ---
 **Desenvolvido com ❤️ para facilitar sua experiência no League of Legends!**
