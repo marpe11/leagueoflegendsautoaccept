@@ -10,7 +10,6 @@ O **AutoGuy** é um script automatizado desenvolvido em Python para aceitar part
 - Python 3+
 - OpenCV
 - PyAutoGUI
-- Outros requisitos podem ser instalados com:
 
 ## 🛠️ Como Usar
 1. Execute o script Python:
