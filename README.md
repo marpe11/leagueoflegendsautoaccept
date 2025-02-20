@@ -14,7 +14,7 @@ O **AutoGuy** é um script automatizado desenvolvido em Python para aceitar part
 ## 🛠️ Como Usar
 1. Execute o script Python:
    ```sh
-   python autoguy.py
+   python Autoaccept.py
    ```
 2. O script começará a monitorar a tela e aceitar automaticamente as partidas.
 
