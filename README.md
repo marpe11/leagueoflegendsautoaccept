@@ -1,11 +1,12 @@
-![WhatsApp Image 2025-04-02 at 23 00 33_d5833099](https://github.com/user-attachments/assets/b7fd7daa-d436-4f3d-88cf-afa1c9a6d7be)# 🤖 AutoGuy - Aceitação Automática de Partidas no League of Legends
+# 🤖 AutoGuy - Aceitação Automática de Partidas no League of Legends
 
 ## 📌 Sobre o Projeto
 O **AutoGuy** é um script automatizado desenvolvido em Python para aceitar partidas automaticamente no **League of Legends**. Ele monitora a tela e detecta o botão de "Aceitar", clicando automaticamente para agilizar a experiência dos jogadores.
 
 ## 🚀 Funcionalidades
 - ✅ Aceitação automática de partidas assim que o botão "Aceitar" aparecer na tela.
-- ![WhatsApp Image 2025-04-02 at 23 00 33_d5833099](https://github.com/user-attachments/assets/3d56b8ff-8baf-4c89-b8c2-b0c0158b6c59)
+
+![Imagem do app](https://github.com/user-attachments/assets/0dada0bd-3853-4818-8d20-460f2de8f3d2)
 
 
 ## 📦 Requisitos
